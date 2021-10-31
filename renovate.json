@@ -2,7 +2,7 @@
   "rangeStrategy": "pin",
   "packageRules": [{
     "packagePatterns": ["^angular.*"],
-    "groupName": "angular",
+    "groupName": "NORA BOT",
     "automerge": true
   }]
 }
